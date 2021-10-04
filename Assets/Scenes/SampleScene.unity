@@ -263,6 +263,102 @@ MonoBehaviour:
     - blue_mic_exp S
     - Porche 7 S8 Cayman GT4 2020 S
     - Shenron_head S
+  - name: Rame
+    cataloguePath: https://game-defi-city-dev.s3.eu-central-1.amazonaws.com/AddressableTesting/Rame/catalog_2021.10.04.13.04.05.json
+    addresses:
+    - 009_cloud 1
+    - 010_dust 1
+    - 011_carbon dioxide 1
+    - 012_lpg 1
+    - 013_Butane gas 1
+    - 014_water vapour 1
+    - 015_helium 1
+    - 016_wind 1
+    - 017_alcohol 1
+    - 018_virus 1
+    - 019_oil 1
+    - 020_milk 1
+    - 021_book 1
+    - 022_ash 1
+    - 023_blood 1
+    - 024_sulfur 1
+    - 025_poison 1
+    - 026_glass 1
+    - 027_feather 1
+    - 028_torch 1
+    - 029_bomb 1
+    - 030_sand brick 1
+    - 031_clay brick 1
+    - 032_ruby 1
+    - 033_topaz 1
+    - 034_diamond 1
+    - 035_waste paper 1
+    - 036_sand 1
+    - 037_mud 1
+    - 038_sugar 1
+    - 039_charcoal 1
+    - 040_rope 1
+    - 041_coal 1
+    - 042_concrete 1
+    - 043_ice 1
+    - 044_caramel 1
+    - 045_gunpowder 1
+    - 046_cigarette 1
+    - 047_gold 1
+    - 048_silver 1
+    - 049_iron 1
+    - 050_lead 1
+    - 051_powdered bones 1
+    - 052_garilc 1
+    - 053_ginseng 1
+    - 054_flower 1
+    - 055_honeycomb 1
+    - 056_lavender 1
+    - 057_pearl 1
+    - 058_obsidian 1
+    - 059_soul 1
+    - 060_life 1
+    - 061_beer 1
+    - 062_energy 1
+    - 063_time 1
+    - 064_concentration potion 1
+    - 065_healing potion 1
+    - 066_power potion 1
+    - 067_magic powder 1
+    - 068_laser 1
+    - 069_film of gossamer 1
+    - 070_glowing powder 1
+    - 071_ball 1
+    - 072_coin 1
+    - 073_black pearl 1
+    - 074_aluminium 1
+    - 075_copper 1
+    - 076_zinc 1
+    - 077_sapphire 1
+    - 078_emerald 1
+    - 079_amethyst 1
+    - 080_cells 1
+    - 081_darkness 1
+    - 082_sparkling water 1
+    - 083_egg 1
+    - 084_soap 1
+    - 085_butter 1
+    - 086_cheese 1
+    - 087_salt 1
+    - 088_mushroom 1
+    - 089_three leaf clover 1
+    - 090_four leaf clover 1
+    - 091_roots 1
+    - 092_stone 1
+    - 093_love 1
+    - 094_seed 1
+    - 095_plasma 1
+    - 096_pill 1
+    - 097_battery 1
+    - 098_soda 1
+    - 099_apple 1
+    - 100_icecream 1
+    - item_name 1
   chosen: {fileID: 0}
   chosenSprite: {fileID: 0}
 --- !u!4 &436950265
@@ -291,6 +387,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2971b53e00e9e514094e6a9a44e09215, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameForEasyRead: Rame
+  catalogPath: https://game-defi-city-dev.s3.eu-central-1.amazonaws.com/AddressableTesting/Rame/catalog_2021.10.04.13.04.05.json
   ma: []
 --- !u!1 &705507993
 GameObject:
