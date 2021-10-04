@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Model S
+  m_EditorClassIdentifier: 
+  m_GroupName: Model S
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 88d6cca40e1393d45a309e63feff76d0
+  m_SerializeEntries:
+  - m_GUID: 85e347fbac1fc4b48b247528a5dfef4a
+    m_Address: alien S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d049b411963af2a4882870ed182e2d64
+    m_Address: Porche 7 S8 Cayman GT4 2020 S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8af4561cdf933d64fb62260ac6dc9f39
+    m_Address: aliensculpt S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c52503bf7d9ab15478cb74f85332f652
+    m_Address: blue_mic_exp S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c36dd81e37c382c41839f2acb6f64798
+    m_Address: Shenron_head S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 368712928b03b864a83d1396d5ed858c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 181aef235fa30bf4aae647c227542946, type: 2}
+    - {fileID: 11400000, guid: 522c11988d1e44a41afcbf499cdffb38, type: 2}

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: 3mb S
+  m_EditorClassIdentifier: 
+  m_GroupName: 3mb S
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bb31fa246d8252443be20602a38d020e
+  m_SerializeEntries:
+  - m_GUID: 1ed41d3f0e04515459687cd8e09939b9
+    m_Address: SamplePNGImage_3mbmb (9) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6addb1ea729f26e4fa4b39a56e318735
+    m_Address: SamplePNGImage_3mbmb (4) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cef91650fd78fa0409275657759cc2ff
+    m_Address: SamplePNGImage_3mbmb (1) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b58a8826cf1b6b949a31ad49cfa44aa8
+    m_Address: SamplePNGImage_3mbmb (7) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7536360eebbfaf94eaed6e2cae4734ea
+    m_Address: SamplePNGImage_3mbmb (8) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f32d50f57f1eefd429faa5dd6b4c97da
+    m_Address: SamplePNGImage_3mbmb (12) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f47f13731481ab439a91c18b75d9345
+    m_Address: SamplePNGImage_3mbmb (5) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38b44fd765c311744837886e3d1e0c57
+    m_Address: SamplePNGImage_3mbmb - Copy (3) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d69128787ab59bb4288af39fc59284ef
+    m_Address: SamplePNGImage_3mbmb (4) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc7eb8d5086cfc043833cbe760a6297d
+    m_Address: SamplePNGImage_3mbmb (10) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 140535d5b6c8ac846beb9de49e41cdf9
+    m_Address: SamplePNGImage_3mbmb (3) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d32a507a92084174da380035835dbec3
+    m_Address: SamplePNGImage_3mbmb - Copy (2) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae99801f80110f94c9ab0b55c52c05f3
+    m_Address: SamplePNGImage_3mbmb (2) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a16a24049223462488bb797bc6b46f83
+    m_Address: SamplePNGImage_3mbmb (11) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d38caacaadaceac42aa68481b6544e74
+    m_Address: SamplePNGImage_3mbmb (2) S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 878d79c9171636a42b25def707c7552e
+    m_Address: SamplePNGImage_3mbmb (3) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9e18d0e6e175b2a409768195b234c369
+    m_Address: SamplePNGImage_3mbmb - Copy S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb98ce7c33105b34aaa0b50b36c9b699
+    m_Address: SamplePNGImage_3mbmb (1) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fb87dd9775bcdd468d79aafb38b6b83
+    m_Address: SamplePNGImage_3mbmb S
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cb55a072523e2246a205a99c268c525
+    m_Address: SamplePNGImage_3mbmb (6) S - Copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 368712928b03b864a83d1396d5ed858c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f6135534b0d2414fbea3c9e469569b7, type: 2}
+    - {fileID: 11400000, guid: 4b4fcccffb249b74186c8c3b0237deff, type: 2}
