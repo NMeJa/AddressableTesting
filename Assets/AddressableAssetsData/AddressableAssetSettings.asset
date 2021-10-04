@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: f2515e08f9aba2f4f9ed4a4c79492f43
+  m_DefaultGroup: 2a14af0ed7c99a249a728c27c86ea7db
   m_CachedHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -38,12 +38,8 @@ MonoBehaviour:
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: 728507f8589283c479d69dfe4aab3dc8, type: 2}
-  - {fileID: 11400000, guid: 7e6c0ed402c8d444c84f0801e7d675a9, type: 2}
-  - {fileID: 11400000, guid: e2ee149080c74b040bd9f09021905b3b, type: 2}
-  - {fileID: 11400000, guid: cb4aa9aa8e607f847a4cfcca320de06c, type: 2}
-  - {fileID: 11400000, guid: b2dd606662cc7254a9e2ad364e166cae, type: 2}
-  - {fileID: 11400000, guid: b48533cf99def2d4b8b264ee02866e14, type: 2}
-  - {fileID: 11400000, guid: 73823c788671f414cb05536c4a1094be, type: 2}
+  - {fileID: 11400000, guid: adab62ac7812b1d47a9552bdd3f4c241, type: 2}
+  - {fileID: 11400000, guid: 546497f782fce04488c02a8eb5165d6c, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -149,6 +145,20 @@ MonoBehaviour:
         m_Value: ServerData/Sereratly20
       - m_Id: 311227925c03c34448da9c28589a8d79
         m_Value: https://game-defi-city-dev.s3.eu-central-1.amazonaws.com/AddressableTesting/Sereratly20
+    - m_InheritedParent: 
+      m_Id: 932323bfa6834b741ac2a649109de75d
+      m_ProfileName: is
+      m_Values:
+      - m_Id: d651e922ea1bee04a80eb1934a125712
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 2e66b47aa979321409e93f0257fec28b
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: e891771fdc98ba2408b0e5ed1e1749b3
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 346880f64289ad74eba231be326d0f2b
+        m_Value: ServerData/Rame
+      - m_Id: 311227925c03c34448da9c28589a8d79
+        m_Value: https://game-defi-city-dev.s3.eu-central-1.amazonaws.com/AddressableTesting/Rame
     m_ProfileEntryNames:
     - m_Id: d651e922ea1bee04a80eb1934a125712
       m_Name: BuildTarget
@@ -182,7 +192,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9b8e9b63388348a4ab6c20bbb914833d, type: 2}
   - {fileID: 11400000, guid: 963c6cdfefcf09e46a21a0575bb7c2d3, type: 2}
   - {fileID: 11400000, guid: 4fa41de90cd69d74fa61c26d85aaf741, type: 2}
-  m_ActiveProfileId: e118deada152e644dbe2ecd1f4857e41
+  m_ActiveProfileId: 932323bfa6834b741ac2a649109de75d
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
