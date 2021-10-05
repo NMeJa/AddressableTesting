@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "2.2.5",
     "com.harumak.ezaddresser": "0.2.4",
     "com.nmj_gd.nmjtoolbox": "https://github.com/NMeJa/NMJToolBox.git",
     "com.oddworm.addressablesbuildlayoutexplorer": "1.0.0-pre.2",
-    "com.unity.collab-proxy": "1.7.1",
+    "com.unity.collab-proxy": "1.9.0",
     "com.unity.ide.rider": "3.0.7",
     "com.unity.inputsystem": "1.0.2",
     "com.unity.test-framework": "1.1.29",
@@ -41,7 +42,7 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.cysharp.unitask": "2.2.5"
+    "com.yasirkula.ingamedebugconsole": "1.5.1"
   },
   "scopedRegistries": [
     {
@@ -51,7 +52,8 @@
         "com.cysharp.unitask",
         "com.harumak.ezaddresser",
         "com.oddworm.addressablesbuildlayoutexplorer",
-        "com.openupm"
+        "com.openupm",
+        "com.yasirkula.ingamedebugconsole"
       ]
     }
   ]

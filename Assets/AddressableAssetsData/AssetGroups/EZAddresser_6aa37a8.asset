@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EZAddresser_6aa37a8
+  m_EditorClassIdentifier: 
+  m_GroupName: EZAddresser_6aa37a8
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fca5401cceb5e284c8340d10dedc503b
+  m_SerializeEntries:
+  - m_GUID: a0570ddf27a63be48a5a02d99063d6c6
+    m_Address: 046_cigarette 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dd25e90540c37d4f90a173ba4d2f7dd
+    m_Address: 071_ball 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8a7efd2c211a2a3418a7cfbb59805ab8
+    m_Address: 011_carbon dioxide 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6675bc7890e0f8744b65f010b40fdeca
+    m_Address: 021_book 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ed15975f2924444ca8f05f784a4db83
+    m_Address: 085_butter 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3414742bc8c1ab498b90afa94f5cc46
+    m_Address: 031_clay brick 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4341c1510b95f3f40996b6be54c41d0d
+    m_Address: 088_mushroom 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23633ee8bf27a974c9a2b03a6c4d460b
+    m_Address: 014_water vapour 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24f023ce5d6275644be70d56a2092832
+    m_Address: 092_stone 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f92ebbca19e0d143a8531a3c66321c6
+    m_Address: 037_mud 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bdae5bf977f63546ac3a7f75d07fd12
+    m_Address: 080_cells 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e388e2b0e916cea4f879417b2807e45b
+    m_Address: 094_seed 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9eb81e0c9486900429b6f3540fffe7b8
+    m_Address: 076_zinc 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c54614fa224adc48b2cc958e9ce8355
+    m_Address: 090_four leaf clover 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d63539296a0eea46a2c417800415dcb
+    m_Address: 093_love 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17dbfab6dc431de46b6cd4261dd60b5e
+    m_Address: 020_milk 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc92219aa5142f742890b1c8186d1dea
+    m_Address: 032_ruby 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c739888ce6cd44d4cb5f72144cfaaf33
+    m_Address: 064_concentration potion 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 659511cacc29e724d9929b66622c335d
+    m_Address: 075_copper 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b8d9866ae14c2b34f8224252b1a2b012
+    m_Address: 010_dust 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ebf468ded169bb43a3de03c1c57886e
+    m_Address: 029_bomb 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44ab674f79d894540ba2ba4df47a20a0
+    m_Address: 072_coin 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f62bcbfaa48b07843a1939aaf226d1fd
+    m_Address: 077_sapphire 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c85beba06b7120489b4c4010a2ab6fa
+    m_Address: 063_time 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d1343f148001b9e4c91f5a4768b9a7c2
+    m_Address: 081_darkness 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4f558f14fe0eaf4a8047664d3d4f416
+    m_Address: 047_gold 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 421eb5fc4d65b134b9ea0caf2a64d70c
+    m_Address: 079_amethyst 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fa255019f39b177459e7cd2b0c15adb8
+    m_Address: 059_soul 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a0a11b68553bdf4d8333a5d32c9318f
+    m_Address: 050_lead 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c8691c8dfda59444abfb77c5f9169ca
+    m_Address: 098_soda 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eea19e3536648314a803e1df44d812e6
+    m_Address: 028_torch 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d75794ca0046a24c9e827e523e5c3ce
+    m_Address: 013_Butane gas 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3eb4c2d6ed639074eb7a569b00148298
+    m_Address: 040_rope 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: adb1f88c613f907478ce5d653870814a
+    m_Address: 017_alcohol 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 16ef54a46378da941a221c692b437439
+    m_Address: 067_magic powder 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 478fce4e375f65946ac1a4b47963360f
+    m_Address: 065_healing potion 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3bac469c062013e449826851a6413c80
+    m_Address: 038_sugar 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd00f86bba383bf47b1f555b9e3a79b6
+    m_Address: 015_helium 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d7b842a475b39c43a70a3ff27a3ff9c
+    m_Address: 066_power potion 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b34204d23748fe54882509011a2e7fea
+    m_Address: 025_poison 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6f1d76cab777b94e909ff9f12c167d1
+    m_Address: item_name 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d29a473773aefd146adee4d910e8ed8c
+    m_Address: 019_oil 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff174fbdc6552aa4dbb146810f73a4b7
+    m_Address: 089_three leaf clover 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc4dbac9c406eac4fa3fc0ee8c9374b2
+    m_Address: 053_ginseng 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09c16f30aa4301542a96719a915c9d96
+    m_Address: 060_life 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 65e23d5b1051c434c95c8474f0d7f9c9
+    m_Address: 100_icecream 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5437cd87281b62948bee109d284e6909
+    m_Address: 051_powdered bones 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aecdb387ece41b949a3ba939a7de1a2f
+    m_Address: 018_virus 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 234c845004174614f8f039921a1d72d9
+    m_Address: 054_flower 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14bf1f2db1b43654aaa96fbc35dcece7
+    m_Address: 084_soap 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42e57b1b23544bd41895c2007e6d94b1
+    m_Address: 052_garilc 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 892e899fe8442cb41b87a2a60f9a7f35
+    m_Address: 027_feather 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0e972fa5fbd342e4e8c2d99f88c7241d
+    m_Address: 044_caramel 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b2bf5c641cfb09499568be17df232b1
+    m_Address: 045_gunpowder 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 656637bf0e0f0414992930e826e404c4
+    m_Address: 012_lpg 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8f21fb227a71ca45b308d8a3830e234
+    m_Address: 022_ash 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 716734f519b347d4283d2356071f2bd2
+    m_Address: 035_waste paper 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f05fcb1473693f4a9285d5043e800c5
+    m_Address: 034_diamond 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 259e2296e467da448b6b2427379d214b
+    m_Address: 056_lavender 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c20742e08fdd6774eb32bced6415f13b
+    m_Address: 058_obsidian 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4925a39066a04f94c96934efbec02970
+    m_Address: 049_iron 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 75eb7eefcd761ea4a8281018d7383f3e
+    m_Address: 070_glowing powder 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af8ba533ab7f7964a93e435452a30312
+    m_Address: 086_cheese 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2252de5109bdfb4eb28469c347ae4cf
+    m_Address: 068_laser 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3af3ff68d4cf9ce40acbb4c1140065da
+    m_Address: 082_sparkling water 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0102c33e6259858499ecd1a4cdcd423b
+    m_Address: 033_topaz 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7c32837f10b6a64db23454769dd80c9
+    m_Address: 009_cloud 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6ee244831954a14aa0b616b96ffb43e
+    m_Address: 048_silver 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c93ce94d00bb8d7428b90b1d59cc0f11
+    m_Address: 042_concrete 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c4a70ac84be72647bee700e0f5bcd0a
+    m_Address: 099_apple 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2244d416f1f742e499e765be123fc44a
+    m_Address: 095_plasma 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6cae889fad4b57445be89db8dc1939db
+    m_Address: 062_energy 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8536b954baf2b4d49a706171ff516029
+    m_Address: 041_coal 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b1a5a3138ddede4681a67477362730d
+    m_Address: 016_wind 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6533f61b8a4ae774f91f70ee3876b46c
+    m_Address: 023_blood 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaa39025eed810c4981804c733e4aa34
+    m_Address: 091_roots 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80a0e41315b1e2640810670efd85eb64
+    m_Address: 097_battery 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d84907205e648341a6a5b3224b886e1
+    m_Address: 043_ice 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f3a4c76f7a5d724e954b234b7ece583
+    m_Address: 036_sand 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f889f4ba17accad408380de5eaef488b
+    m_Address: 083_egg 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43487ddf5d7865942a4c115fe3047797
+    m_Address: 096_pill 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d91c2ccc4878a4944998912794aa3ebe
+    m_Address: 061_beer 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9699a70f9842c52489f8482b610f46b0
+    m_Address: 078_emerald 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ded00622ceeabfb4496a1d2a8abfb478
+    m_Address: 057_pearl 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b73907ea1ad1027458d04f88e60b67e1
+    m_Address: 069_film of gossamer 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6c27619b1ec70441b7ee6db6c4a3623
+    m_Address: 026_glass 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 581c637b00bec984eb4a0a11909100ea
+    m_Address: 055_honeycomb 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60b50212c8c55fa498718b0f6367136f
+    m_Address: 030_sand brick 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a70927e6e94696449874fa212975518
+    m_Address: 039_charcoal 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82143e363cbd9954993496a68310a761
+    m_Address: 024_sulfur 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8bc6cb7b24c7214b99dcc8ee67a05ff
+    m_Address: 087_salt 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23cd84c38a3d1134cafb0114f7693a94
+    m_Address: 073_black pearl 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2686296e5a524804489a136d790cd25b
+    m_Address: 074_aluminium 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 368712928b03b864a83d1396d5ed858c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c60c0e36610a9ec4dbc83e14dcba4692, type: 2}
+    - {fileID: 11400000, guid: 57f6e77cd8bde0b4c89d961fedf3e31f, type: 2}

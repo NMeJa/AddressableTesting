@@ -33,6 +33,7 @@ MonoBehaviour:
     - com.harumak.ezaddresser
     - com.oddworm.addressablesbuildlayoutexplorer
     - com.openupm
+    - com.yasirkula.ingamedebugconsole
     m_IsDefault: 0
     m_Capabilities: 0
   m_UserSelectedRegistryName: package.openupm.com
@@ -48,6 +49,7 @@ MonoBehaviour:
       - com.harumak.ezaddresser
       - com.oddworm.addressablesbuildlayoutexplorer
       - com.openupm
+      - com.yasirkula.ingamedebugconsole
       m_IsDefault: 0
       m_Capabilities: 0
     m_Modified: 0
@@ -58,5 +60,6 @@ MonoBehaviour:
     - com.harumak.ezaddresser
     - com.oddworm.addressablesbuildlayoutexplorer
     - com.openupm
+    - com.yasirkula.ingamedebugconsole
     m_SelectedScopeIndex: 0
   m_LoadAssets: 0

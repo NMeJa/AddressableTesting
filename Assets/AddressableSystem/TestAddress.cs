@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using NMJToolBox;
+using RuntimeInspectorNamespace;
 using UnityEngine;
 using Debug = UnityEngine.Debug;
 
@@ -17,6 +18,8 @@ namespace AddressableSystem
 
     public class TestAddress : MonoBehaviour
     {
+        [Range(0, 6)] public int mainIndex;
+        [Range(0, 19)] public int secondaryIndex;
         public static TestAddress instance;
         public string lastContentPath;
 
@@ -24,13 +27,13 @@ namespace AddressableSystem
         private void Awake() => instance = this;
 
         [ContextMenu("Load Catalogue")]
-        [Button]
+        [Button] [RuntimeInspectorButton("Load Content", false, ButtonVisibility.InitializedObjects)]
         private async void LoadContent()
         {
             var st = new Stopwatch();
             st.Start();
             Debug.Log($"Catalogue S Time: {st.Elapsed}");
-            await AddressableLoader.LoadNewContentCatalog(addressers[0].cataloguePath);
+            await AddressableLoader.LoadNewContentCatalog(addressers[mainIndex].cataloguePath);
             lastContentPath =
                 AddressableLoader.lastContentPath.Substring(AddressableLoader.lastContentPath.Length - 50);
             st.Stop();
@@ -40,49 +43,53 @@ namespace AddressableSystem
         public GameObject chosen;
 
         [ContextMenu("Load Address")]
-        [Button]
+        [Button] [RuntimeInspectorButton("Load GameObject", false, ButtonVisibility.InitializedObjects)]
         private async void LoadAddressableByAddress()
         {
             var st = new Stopwatch();
             st.Start();
             Debug.Log($"Address S Time: {st.Elapsed}");
 
-            chosen = await AddressableLoader.LoadObjectUsingAddress<GameObject>(addressers[0].addresses[0],
-                                                                                    addressers[0].cataloguePath);
+            chosen =
+                await AddressableLoader
+                    .LoadObjectUsingAddress<GameObject>(addressers[mainIndex].addresses[secondaryIndex],
+                                                        addressers[mainIndex]
+                                                            .cataloguePath);
             st.Stop();
             Debug.Log($"Address F Time: {st.Elapsed}");
         }
 
         public Sprite chosenSprite;
 
-        [ContextMenu("Load Address Sprite")]
-        [Button]
+        [ContextMenu("Load Sprite")]
+        [Button] [RuntimeInspectorButton("Load Sprite", false, ButtonVisibility.InitializedObjects)]
         private async void LoadAddressableByAddressSprite()
         {
             var st = new Stopwatch();
             st.Start();
-            chosenSprite = await AddressableLoader.LoadObjectUsingAddress<Sprite>(addressers[0].addresses[0],
-                addressers[0].cataloguePath);
+            chosenSprite =
+                await AddressableLoader.LoadObjectUsingAddress<Sprite>(addressers[mainIndex].addresses[secondaryIndex],
+                                                                       addressers[mainIndex].cataloguePath);
             st.Stop();
             Debug.Log($"Address Time: {st.Elapsed}");
         }
 
-        [ContextMenu("Create")]
-        [Button]
+        [ContextMenu("Create GameObject")]
+        [Button] [RuntimeInspectorButton("Create GameObject", false, ButtonVisibility.InitializedObjects)]
         private void CreateGameObject()
         {
             Instantiate(chosen);
         }
 
         [ContextMenu("Create Sprite")]
-        [Button]
+        [Button] [RuntimeInspectorButton("Create Sprite", false, ButtonVisibility.InitializedObjects)]
         private void CreateSprite()
         {
             Instantiate(chosenSprite);
         }
 
         [ContextMenu("Check")]
-        [Button]
+        [Button] [RuntimeInspectorButton("Check Handlers", false, ButtonVisibility.InitializedObjects)]
         private void CheckHandlers()
         {
             Debug.Log($"Catalogues");
